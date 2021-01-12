@@ -1,7 +1,6 @@
 
 ## Search Gifs 
 
-![searchgif](https://j.gifs.com/r8jXNE.gif)
 
 <p align="center">
   <a href="#-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
